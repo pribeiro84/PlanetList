@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Planet List</string>
+    <string name="planet_list">Planet List</string>
+    <string name="planet_name_hint">Planet Name</string>
+    <string name="distance_hint">Distance (in kilometers)</string>
+    <string name="gas_giant_checkbox">Is It a Gas Giant?</string>
+    <string name="submit_button">Submit</string>
+    <string name="add_planet_button">Add Another Planet</string>
+    <string name="planet_name_label">Planet:</string>
+    <string name="planet_distance_label">Distance (AU):</string>
+    <string name="planet_gas_giant_label">Gas Giant?:</string>
+</resources>
